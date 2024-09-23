@@ -1,6 +1,8 @@
-numpy
-librosa
-matplotlib
-scikit-learn
-PyWavelets
-tensorflow
+- Python 3.7+
+- TensorFlow 2.x
+- Keras Tuner
+- librosa
+- scikit-learn
+- numpy
+- matplotlib
+- pandas
